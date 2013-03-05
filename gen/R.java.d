@@ -1,0 +1,23 @@
+/home/mouli/datamattr-rink/yaspa/gen/org/apache/cordova/example/R.java \
+ : /home/mouli/datamattr-rink/yaspa/res/xml/config.xml \
+/home/mouli/datamattr-rink/yaspa/res/drawable-xhdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-xhdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-hdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-hdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/res/values/strings.xml \
+/home/mouli/datamattr-rink/yaspa/res/layout/main.xml \
+/home/mouli/datamattr-rink/yaspa/res/drawable-ldpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-ldpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable/icon.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-mdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/res/drawable-mdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-xhdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-hdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-hdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-ldpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-ldpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-mdpi/ic_launcher.png \
+/home/mouli/datamattr-rink/yaspa/bin/res/drawable-mdpi/icon.png \
+/home/mouli/datamattr-rink/yaspa/bin/AndroidManifest.xml \
